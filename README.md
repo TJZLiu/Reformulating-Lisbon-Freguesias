@@ -1,10 +1,10 @@
-The problem addressed in this study revolves around the inefficiency of current administrative regionalization methods in capturing the dynamic nature of urban population
+The problem addressed in this study revolves around the inefficiency of current administrative regionalization methods in capturing the dynamic nature of urban population
 distributions. Traditional models often fail to accommodate the rapid changes and
 complexity inherent in urban expansion and demographic shifts. This issue not only
 poses significant challenges in urban planning and resource allocation but also has
-profound implications for socio-economic development and environmental management. The intricacies of urban development necessitate a solution capable of handling
+profound implications for socio-economic development and environmental management. The intricacies of urban development necessitate a solution capable of handling
 high-dimensional data and providing actionable insights that are crucial for informed
-decision-making and policy formulation. We help on this matter by a novel regionalization technique based on a data-driven approach. By utilizing Non-negative Matrix
+decision-making and policy formulation. We help on this matter by a novel regionalization technique based on a data-driven approach. By utilizing Non-negative Matrix
 Factorization (NMF) and MaxP optimization, our method leverages the strengths of
 NMF in dealing with non-negativity data to decompose high-dimensional census
 datasets, while MaxP captures the spatial continuity and ensures statistically significant districts. The results from applying this method indicate a data-driven definition
