@@ -12,5 +12,4 @@ of urban districts that align more closely with actual population distributions 
 geographic continuities. The implications of this solution are far-reaching, offering a
 new paradigm in urban regionalization that can significantly influence urban policy
 and governance, facilitate resource optimization.
-# Keywords: Urban Regionalization, Urban Planning, Spatial Analysis, Data-driven
-methods
+# Keywords: Urban Regionalization, Urban Planning, Spatial Analysis, Data-driven methods
